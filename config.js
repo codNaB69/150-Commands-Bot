@@ -1,6 +1,6 @@
-exports.TOKEN = '';
+exports.TOKEN = 'ODMxOTcyMzg3NjUzOTQzMjk5.YHdAqg.F3j5XyWdDYIYq2H_qiQRdhNpnuw';
 
-exports.PREFIX = '';
+exports.PREFIX = '>';
 
 exports.news_API = '';
 
